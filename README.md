@@ -86,11 +86,11 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- DEV:START -->
+- [What&#39;s The Accessibility API](https://dev.to/yuridevat/whats-the-accessibility-api-5agn)
 - [This was Front-End Foxes Day 2022](https://dev.to/yuridevat/this-was-front-end-foxes-day-2022-1472)
 - [Responsive Design for users with low vision](https://dev.to/yuridevat/responsive-design-for-users-with-low-vision-18ib)
 - [Q&amp;A: Who Is Responsible For Accessibility](https://dev.to/yuridevat/qa-who-is-responsible-for-accessibility-3ep2)
 - [Am I Ready To Apply For Jobs?](https://dev.to/yuridevat/am-i-ready-to-apply-for-jobs-1k9l)
-- [&quot;Elderly&quot;, a meeting app for older people](https://dev.to/yuridevat/elderly-a-meeting-app-for-older-people-4gjb)
 <!-- DEV:END -->
 
 ... [READ MORE](https://dev.to/yuridevat)

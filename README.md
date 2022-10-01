@@ -86,11 +86,11 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- DEV:START -->
+- [Importance Of Landmarks](https://dev.to/yuridevat/importance-of-landmarks-5d5k)
 - [Importance Of The &quot;lang&quot; Attribute](https://dev.to/yuridevat/importance-of-the-lang-attribute-2e6n)
 - [Importance Of The Page Title](https://dev.to/yuridevat/importance-of-the-page-title-2331)
 - [What&#39;s The Accessibility API](https://dev.to/yuridevat/whats-the-accessibility-api-5agn)
 - [This was Front-End Foxes Day 2022](https://dev.to/yuridevat/this-was-front-end-foxes-day-2022-1472)
-- [Responsive Design for users with low vision](https://dev.to/yuridevat/responsive-design-for-users-with-low-vision-18ib)
 <!-- DEV:END -->
 
 ... [READ MORE](https://dev.to/yuridevat)

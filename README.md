@@ -86,11 +86,11 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- DEV:START -->
+- [Importance Of Lists](https://dev.to/yuridevat/importance-of-lists-5ek6)
 - [QA Tests for Accessibility](https://dev.to/yuridevat/qa-tests-for-accessibility-4f0m)
 - [Google UX Design Certificate](https://dev.to/yuridevat/google-ux-design-certificate-1a1i)
 - [Importance of Headings](https://dev.to/yuridevat/importance-of-headings-4jgd)
 - [Importance Of Landmarks](https://dev.to/yuridevat/importance-of-landmarks-5d5k)
-- [Importance Of The &quot;lang&quot; Attribute](https://dev.to/yuridevat/importance-of-the-lang-attribute-2e6n)
 <!-- DEV:END -->
 
 ... [READ MORE](https://dev.to/yuridevat)

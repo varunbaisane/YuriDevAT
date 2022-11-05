@@ -86,11 +86,11 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- DEV:START -->
+- [This was Hacktoberfest 2022](https://dev.to/yuridevat/this-was-hacktoberfest-2022-443h)
 - [Getting into Digital Humanities](https://dev.to/yuridevat/getting-into-digital-humanities-3c95)
 - [Navigation between pages](https://dev.to/yuridevat/navigation-between-pages-4cb8)
 - [How to create a Pull Request](https://dev.to/yuridevat/how-to-create-a-pull-request-18a1)
 - [How I want to become a better programmer in 2022 - Part 3](https://dev.to/yuridevat/how-i-want-to-become-a-better-programmer-in-2022-part-3-59am)
-- [Importance Of Lists](https://dev.to/yuridevat/importance-of-lists-5ek6)
 <!-- DEV:END -->
 
 ... [READ MORE](https://dev.to/yuridevat)

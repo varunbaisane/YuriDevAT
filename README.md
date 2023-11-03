@@ -86,11 +86,11 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- DEV:START -->
+- [Hacktoberfest Maintainer Experience](https://dev.to/yuridevat/hacktoberfest-maintainer-experience-3n32)
 - [Hacktoberfest contributor on a11y issues](https://dev.to/yuridevat/contributor-on-a11y-issues-256b)
 - [How does @support work?](https://dev.to/yuridevat/how-support-works-4bf3)
 - [Open Source for Accessibility and Inclusivity - Pledge](https://dev.to/yuridevat/open-source-for-accessibility-and-inclusivity-2kjj)
 - [The Collab Lab - What It Is and Why You Should Get Involved With Them](https://dev.to/yuridevat/the-collab-lab-what-it-is-and-why-you-should-get-involved-with-them-p2m)
-- [Do you talk about side projects during employee appraisal and target agreement](https://dev.to/yuridevat/do-you-talk-about-side-projects-during-employee-appraisal-and-target-agreement-5134)
 <!-- DEV:END -->
 
 ... [READ MORE](https://dev.to/yuridevat)

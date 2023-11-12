@@ -86,7 +86,7 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- DEV:START -->
-- [Reference a new issue](https://dev.to/yuridevat/reference-a-new-issue-3g5h)
+- [Github: Reference a new issue](https://dev.to/yuridevat/reference-a-new-issue-3g5h)
 - [Hacktoberfest Maintainer Experience](https://dev.to/yuridevat/hacktoberfest-maintainer-experience-3n32)
 - [Hacktoberfest contributor on a11y issues](https://dev.to/yuridevat/contributor-on-a11y-issues-256b)
 - [How does @support work?](https://dev.to/yuridevat/how-support-works-4bf3)

@@ -86,11 +86,11 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- DEV:START -->
+- [HTML can do this? Part 1](https://dev.to/yuridevat/html-can-do-this-part-1-3ab2)
 - [How to create accessible tournament brackets with only HTML and CSS](https://dev.to/yuridevat/can-tournament-brackets-be-accessible-34og)
 - [Github: Reference a new issue](https://dev.to/yuridevat/reference-a-new-issue-3g5h)
 - [Hacktoberfest Maintainer Experience](https://dev.to/yuridevat/hacktoberfest-maintainer-experience-3n32)
 - [Hacktoberfest contributor on a11y issues](https://dev.to/yuridevat/contributor-on-a11y-issues-256b)
-- [How does @support work?](https://dev.to/yuridevat/how-support-works-4bf3)
 <!-- DEV:END -->
 
 ... [READ MORE](https://dev.to/yuridevat)

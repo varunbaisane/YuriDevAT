@@ -86,11 +86,11 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- DEV:START -->
+- [How to install Flutter on a MacBook](https://dev.to/yuridevat/how-to-install-flutter-on-a-macbook-1mad)
 - [Android cmdline-tools component is missing - Flutter installation issue](https://dev.to/yuridevat/android-cmdline-tools-component-is-missing-flutter-installation-issue-30e3)
 - [HTML can do this? Part 1](https://dev.to/yuridevat/html-can-do-this-part-1-3ab2)
 - [How to create accessible tournament brackets with only HTML and CSS](https://dev.to/yuridevat/can-tournament-brackets-be-accessible-34og)
 - [Github: Reference a new issue](https://dev.to/yuridevat/reference-a-new-issue-3g5h)
-- [Hacktoberfest Maintainer Experience](https://dev.to/yuridevat/hacktoberfest-maintainer-experience-3n32)
 <!-- DEV:END -->
 
 ... [READ MORE](https://dev.to/yuridevat)

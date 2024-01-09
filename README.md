@@ -86,11 +86,11 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- DEV:START -->
+- [🌟 #DEVImpact2023 - My Proudest Moments, Failures and Wins](https://dev.to/yuridevat/devimpact2023-my-proudest-moments-failures-and-wins-438e)
 - [CSS :has&lpar;&rpar; pseudo class](https://dev.to/yuridevat/css-has-pseudo-class-p6g)
 - [How to make CSS :has&lpar;&rpar; pseudo-class work on Firefox](https://dev.to/yuridevat/how-to-make-css-has-selector-work-on-firefox-1087)
 - [How to install Flutter on a MacBook](https://dev.to/yuridevat/how-to-install-flutter-on-a-macbook-1mad)
 - [Android cmdline-tools component is missing - Flutter installation issue](https://dev.to/yuridevat/android-cmdline-tools-component-is-missing-flutter-installation-issue-30e3)
-- [HTML can do this? Part 1](https://dev.to/yuridevat/html-can-do-this-part-1-3ab2)
 <!-- DEV:END -->
 
 ... [READ MORE](https://dev.to/yuridevat)

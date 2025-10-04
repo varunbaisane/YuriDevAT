@@ -86,11 +86,11 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- DEV:START -->
+- [This is what I learned organizing an a11y webinar series for a year, now I&#39;m hosting my biggest hybrid event yet](https://dev.to/yuridevat/this-is-what-i-learned-organizing-an-a11y-webinar-series-for-a-year-now-im-hosting-my-biggest-5aef)
 - [10xA11y Dev with Algolia Search](https://dev.to/yuridevat/10xa11y-dev-with-algolia-search-4fj9)
 - [LeetCode 2667. Create Hello World Function &lpar;Easy&rpar;](https://dev.to/yuridevat/leetcode-2667-create-hello-world-function-easy-51n2)
 - [LeetCode 2620. Counter &lpar;Easy&rpar;](https://dev.to/yuridevat/leetcode-2620-counter-easy-5bm)
 - [How to create a good README.md file](https://dev.to/yuridevat/how-to-create-a-good-readmemd-file-4pa2)
-- [LeetCode 2634. Filter Elements from Array &lpar;Easy&rpar;](https://dev.to/yuridevat/leetcode-2634-filter-elements-from-array-easy-355i)
 <!-- DEV:END -->
 
 ... [READ MORE](https://dev.to/yuridevat)
